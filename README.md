@@ -16,3 +16,6 @@ https://github.com/GeorgK/MQ135
 # Get CO2 Atmosphere Level from:
 - https://www.co2.earth/
 - #define ATMOCO2 418.81
+
+## TODO:
+- add Fritzing Image
